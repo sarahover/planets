@@ -1,3 +1,2 @@
 *.dat
 results/
-!a.dat  #except a file - do want to ignore b & c
